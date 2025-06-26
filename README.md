@@ -1,4 +1,4 @@
-Project: Sign Up & Login System with Email Confirmation
+Project: Sign Up & Login System with Email Confirmation<br/>
 Description:
 Developed a secure user authentication system using Django that enables user registration with email verification to ensure only valid users can activate their accounts and log in. The system includes token-based email confirmation for account activation.
 My Responsibilities:
