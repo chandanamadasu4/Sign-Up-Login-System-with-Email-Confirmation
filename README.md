@@ -46,11 +46,6 @@ A secure user authentication system built with <strong>Django</strong>, enabling
 
 <hr>
 
-<h2>📸 Screenshots (Optional)</h2>
-<p><em>Add screenshots or a demo gif here to showcase signup, email, and activation screens.</em></p>
-
-<hr>
-
 <h2>🚀 Getting Started (Optional)</h2>
 
 <pre>
